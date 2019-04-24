@@ -1,7 +1,7 @@
 class Dog 
   #accepts dog name using initialize 
 def initialize(name)
-  @name = name 
+  @name= name 
 end
 
   #accepts dog breed using initialize
